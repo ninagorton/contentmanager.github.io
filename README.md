@@ -12,10 +12,14 @@
   <summary> Sign in </summary>
   <p>Enter your email and password and click the "Sign in" button</p>
  </detail>
- <h3>HTML<h3>
-  <p>Some HTML code here<p>
- <details>
+
+<details>
   <summary> Create App </summary>
   <p>If you have not created an app yet, you will be directed to this page. Here you must provide a name and description for your app as well as an app logo.</p>
+</details>
+
+<details>
+  <summary> View App Details </summary>
+  <p>This page allows you to view the details of the app you created</p>
 </details>
   
