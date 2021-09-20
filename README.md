@@ -11,7 +11,7 @@
 <details>
   <summary> Sign in </summary>
   <p>Enter your email and password and click the "Sign in" button</p>
-</detail>
+</details>
 
 
 <details>
