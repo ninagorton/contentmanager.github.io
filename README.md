@@ -4,8 +4,9 @@
 1. Download the project, that has been submitted on Vula.
 2. Import the project into your IDE.
 3. Open your terminal and make your way to the project directory.
-4. Enter 'yarn start' into the terminal to run the project in development work
-5. Ensure you are also running the Backend as well
+4. Enter' yarn install' to install all dependencies for the project.
+5. Enter 'yarn start' into the terminal to run the project in development mode.
+6. Ensure you are also running the Backend as well.
 
 ## Libraries: ##
 <details>
@@ -23,4 +24,38 @@
   <summary> View App Details </summary>
   <p>This page allows you to view the details of the app you created</p>
 </details>
+
+<details>
+  <summary>NGO Educate</summary>
+  <p></p>
+</details>
   
+<details>
+  <summary>Upload Content</summary>
+  <p></p>
+</details>
+  
+<details>
+  <summary>Manage Content</summary>
+  <p></p>
+</details>
+  
+<details>
+  <summary>All Content</summary>
+  <p></p>
+</details>
+  
+<details>
+  <summary>New Playlist</summary>
+  <p></p>
+</details>
+  
+<details>
+  <summary>View Content</summary>
+  <p></p>
+</details>
+  
+<details>
+  <summary></summary>
+  <p></p>
+</details>
