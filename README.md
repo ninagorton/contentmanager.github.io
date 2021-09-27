@@ -16,7 +16,7 @@
     1. Enter your email address.
     2. Enter your password.
     3. Click the 'Sign In' button.
-
+  ![picture alt](SignIn.png "Upload Content Page")
 </details>
 
 
@@ -53,7 +53,7 @@
     5. Hovering your mouse over the "?" alongside the disabled 'Upload' button informs you of the required fields that you must provide to upload content.
     6. Once the name, description and file have been provided, the 'Upload' button will enable. Click the button and confirm to upload content.
   
-  Markup : ![picture alt](UploadContent.png "Upload Content Page")
+  ![picture alt](UploadContent.png "Upload Content Page")
 </details>
   
 <details>
