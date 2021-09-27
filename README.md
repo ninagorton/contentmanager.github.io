@@ -12,27 +12,39 @@
 <details>
   <summary> Sign in </summary>
   <p>Enter your email and password and click the "Sign in" button</p>
+  <p>***Steps***</p>
+  <p>
+    1. Enter your email address.
+    2. Enter your password.
+    3. Click the 'Sign In' button.
+  </p>
 </details>
 
 
 <details>
   <summary> Create App </summary>
   <p>If you have not created an app yet, you will be directed to this page. Here you must provide a name and description for your app as well as an app logo.</p>
+  <p>***Steps***</p>
+  <p>
+    1. Enter your email address.
+    2. Enter your password.
+    3. Click the 'Sign In' button.
+  </p>
 </details>
 
 <details>
   <summary> View App Details </summary>
-  <p>This page allows you to view the details of the app you created</p>
+  <p>This page allows you to view the details of the app you created and download the APK.</p>
 </details>
 
 <details>
   <summary>NGO Educate</summary>
-  <p></p>
+  <p>This is the home page which provides summary statistics as well as links to important pages.</p>
 </details>
   
 <details>
   <summary>Upload Content</summary>
-  <p></p>
+  <p>Provide a name</p>
 </details>
   
 <details>
