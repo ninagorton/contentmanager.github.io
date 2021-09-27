@@ -17,7 +17,6 @@ Listed below are the pages available on the NGO Educate Content Manager. Some pa
     1. Enter your email address.
     2. Enter your password.
     3. Click the 'Sign In' button.
-  ![picture alt](SignIn.png "Upload Content Page")
 </details>
 
 
