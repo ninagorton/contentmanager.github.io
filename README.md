@@ -13,9 +13,9 @@
   <summary> Sign in </summary>
   <p>Enter your email and password and click the "Sign in" button</p>
   
-  <p>1. Enter your email address. </p>
-  <p>2. Enter your password.</p>
-  <p>3. Click the 'Sign In' button.</p>
+  1. Enter your email address.
+  2. Enter your password.
+  3. Click the 'Sign In' button.
 
 </details>
 
