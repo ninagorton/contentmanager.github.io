@@ -8,7 +8,8 @@
 5. Enter 'yarn start' into the terminal to run the project in development mode.
 6. Ensure you are also running the Backend as well.
 
-## Libraries: ##
+## Pages: ##
+Listed below are the pages available on the NGO Educate Content Manager. Some pages contain annotated screenshots.
 <details>
   <summary> Sign in </summary>
   <p>This is the landing page of NGO Educate. You are required to Sign In before accessing the site.</p>
@@ -75,6 +76,8 @@
     2. Enter a description for the playlist.
     3. Hovering your mouse over "?" next to the 'Create' button will inform you of the fields you are required to fill to enable the 'Create' button.
     4. Click the 'Create' button and confirm to create the new playlist.
+  
+  ![picture alt](NewPlaylist.png "New Playlist Page")
 </details>
   
 <details>
@@ -92,6 +95,8 @@
     4. Click 'Add Content' and confirm changes.
     5. Click the 'Remove' button next to each piece of content that you want to remove from the playlist.
     6. Click the 'Back' button to go back to 'View Playlist' and see your changes.
+  
+  ![picture alt](editPlaylist.png "Edit Playlist Page")
 </details>
 
 <details>
@@ -105,6 +110,8 @@
       
     1. Enter a new name and/or description.
     2. Click the 'Save' button and confirm changes.
+  
+  ![picture alt](editContent.png "Edit Content Page")
 </details>
 
 <details>
