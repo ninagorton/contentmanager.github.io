@@ -12,8 +12,8 @@
 <details>
   <summary> Sign in </summary>
   <p>Enter your email and password and click the "Sign in" button</p>
-  <p>***Steps***</p>
-  <p>
+  ***Steps***
+  <p>Markup :
     1. Enter your email address.
     2. Enter your password.
     3. Click the 'Sign In' button.
