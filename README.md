@@ -11,7 +11,7 @@
 ## Libraries: ##
 <details>
   <summary> Sign in </summary>
-  <p>Enter your email and password and click the "Sign in" button</p>
+  <p>This is the landing page of NGO Educate. You are required to Sign In before accessing the site.</p>
   
   1. Enter your email address.
   2. Enter your password.
@@ -22,18 +22,19 @@
 
 <details>
   <summary> Create App </summary>
-  <p>If you have not created an app yet, you will be directed to this page. Here you must provide a name and description for your app as well as an app logo.</p>
-  <p>***Steps***</p>
-  <p>
-    1. Enter your email address.
-    2. Enter your password.
-    3. Click the 'Sign In' button.
-  </p>
+  <p>If you have not created an app yet, you will be directed to this page. Here you must provide a name and description for your app as well as an app logo. The 'Generate App' button will enable once all the required fields have been filled. </p>
+
+    1. Enter a name for your app.
+    2. Enter a description for your app.
+    3. Upload an image to be used as the app logo.
+    4. Click the 'Generate App' button and you will then be redirected to the 'App Details' page.
+
 </details>
 
 <details>
   <summary> View App Details </summary>
   <p>This page allows you to view the details of the app you created and download the APK.</p>
+  
 </details>
 
 <details>
@@ -43,7 +44,14 @@
   
 <details>
   <summary>Upload Content</summary>
-  <p>Provide a name</p>
+  <p>This page allows you to upload content (e.g. videos, images, etc) to your app.</p>
+  
+  1. Enter a name for the content.
+  2. Enter a description.
+  3. Select a file from your device that you want to upload.
+  4. You may select which playlist(s) to add the content to and select a date, however these fields are not required.
+  5. Hovering your mouse over the "?" alongside the disabled 'Upload' button informs you of the required fields that you must provide to upload content.
+  6. Once the name, description and file have been provided, the 'Upload' button will enable. Click the button to upload content.
 </details>
   
 <details>
