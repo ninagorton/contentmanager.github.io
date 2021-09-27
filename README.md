@@ -52,6 +52,8 @@
     4. You may select which playlist(s) to add the content to and select a date, however these fields are not required.
     5. Hovering your mouse over the "?" alongside the disabled 'Upload' button informs you of the required fields that you must provide to upload content.
     6. Once the name, description and file have been provided, the 'Upload' button will enable. Click the button and confirm to upload content.
+  
+  Markup : ![picture alt](UploadContent.png "Upload Content Page")
 </details>
   
 <details>
