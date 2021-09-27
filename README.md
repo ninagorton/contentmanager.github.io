@@ -104,3 +104,8 @@
     1. Enter a new name and/or description.
     2. Click the 'Save' button and confirm changes.
 </details>
+
+<details>
+  <summary> Sign Out</summary>
+  <p>This button will sign you out and redirect you to the 'Sign In' page.</p>
+</details>
